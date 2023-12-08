@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\C_2023_000084_BZAIZABDERRAHMAN_G22.props" />
+</Project>
